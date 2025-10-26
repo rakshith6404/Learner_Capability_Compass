@@ -22,11 +22,12 @@ Built around the learner persona *Ananya Sharma*, the app guides her weekly lear
 ---
 
 ## 🖼️ Key Screens
-1. **Onboarding:** Simple and secure login using email, social accounts, or biometrics  
-2. **Dashboard (Compass):** Central view of progress, goals, and recommendations  
-3. **Skill Gap Analysis:** Visualizes skills owned vs. skills needed for target roles  
-4. **Career Path Explorer:** Interactive mapping of related roles and capabilities  
-5. **Profile & Settings:** Account management and data integrations  
+1. **Onboarding:** Simple and secure login using email, social accounts, or biometrics
+   - **Just click on the Login button to sign in, no need to register using your Google Account or your other accounts linked.**
+3. **Dashboard (Compass):** Central view of progress, goals, and recommendations  
+4. **Skill Gap Analysis:** Visualizes skills owned vs. skills needed for target roles  
+5. **Career Path Explorer:** Interactive mapping of related roles and capabilities  
+6. **Profile & Settings:** Account management and data integrations  
 
 Screenshots used in the Round 2 PDF are taken directly from this Flutter prototype.
 
