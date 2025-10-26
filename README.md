@@ -1,7 +1,7 @@
 # 📱 Learner's Capability Growth Compass
 **Developer:** S. Rakshith  
-**Submission:** Osmosis Learn Software Internship Challenge – Round 2  
-
+**Submission:** Osmosis Learn Software Internship Challenge – Round 2 <br>
+**[APK can be downloaded using this link](https://drive.google.com/file/d/1_mDeSDVfOSD-85Iu8zJ4GLHbIp59Nhx0/view?usp=drive_link)**
 ---
 
 ## 🌟 Overview
