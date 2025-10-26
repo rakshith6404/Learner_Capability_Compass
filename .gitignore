@@ -1,0 +1,51 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# Environment files
+.env
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/local.properties
+*.keystore
+*.jks
+
+# iOS specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+ios/.symlinks/
+
+# Web build outputs
+web/build/
+
+# Windows build outputs
+windows/build/
+
+# Linux build outputs
+linux/build/
+
+# macOS build outputs
+macos/build/
+
+# Generated plugin registrant
+lib/generated_plugin_registrant.dart
+

@@ -1,0 +1,40 @@
+name: learner_compass
+description: A prototype for the Learner's Capability Growth Compass for the selection challenge.
+publish_to: 'none' # Remove this line if you want to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# --- DEPENDENCIES ---
+# These are the packages your app needs to run.
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # A great, clean icon pack for modern apps.
+  # We use this for icons like the compass, user, bell, etc.
+  lucide_flutter: ^0.548.0
+
+# --- DEV DEPENDENCIES ---
+# These packages are only used for development and testing.
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # This package helps find common coding mistakes and improves code style.
+  flutter_lints: ^2.0.0
+
+# --- FLUTTER CONFIGURATION ---
+flutter:
+  # This line ensures that the Material Design icons are included.
+  uses-material-design: true
+
+  # To add custom fonts, you would uncomment lines like this:
+  # fonts:
+  #   - family: Inter
+  #     fonts:
+  #       - asset: fonts/Inter-Regular.ttf
+  #       - asset: fonts/Inter-Bold.ttf
+  #         weight: 700
+
